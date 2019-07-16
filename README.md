@@ -17,10 +17,37 @@
 10. Заархивировать папку с репозиторием (tar zcvf / zip) и прислать в ответе.
 
 ### Протокол выполнения задания:
-1. Установлен git version 2.20.1
-2. user.email=maxim@universe.su
+1. git version >
+   Установлен git version 2.20.1
+
+2. git config --list >
+   user.email=maxim@universe.su
    user.name=Maxim Podgornykh
    core.editor=nano
 
- 
+3. git init >
+   На ветке master
 
+   Еще нет коммитов
+
+4. cp /etc/nginx/nginx.conf myvenv/rebrain-devops-task1/
+   скопирован nginx.conf
+
+5. touch README.md 
+   README.md создан
+
+6. git add README.md & git commit
+   первый коммит создан
+
+7. git add nginx.conf & git commit
+   второй коммит создан
+
+8. git shortlog >
+   Maxim Podgornykh (2):
+      новый файл:    README.md
+      Add new file nginx.conf
+
+9. git status >
+   Файл README.md изменен, т.к. ведется протокол выполнения задания
+
+10. архивирование результатов и отправка
