@@ -99,7 +99,36 @@
         remotes/bitbucket/master
         remotes/github/master
         remotes/origin/master
-   ```
+    ```
+  Пушить в каждую репу отдельно не удобно. Добавлен алиас all.
+  Файл .git/config следующего содержания
+    ```
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@gitlab.rebrainme.com:maximuniverse/rebrain-devops-task-checkout.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "github"]
+	url = https://github.com/MaximPod/rebrain-devops-task-checkout.git
+	fetch = +refs/heads/*:refs/remotes/github/*
+[remote "bitbucket"]
+	url = git@bitbucket.org:MaximPod/rebrain-devops-task-checkout.git
+	fetch = +refs/heads/*:refs/remotes/bitbucket/*
+[branch "master"]
+	remote = all
+	merge = refs/heads/master
+[remote "all"]
+	url = git@gitlab.rebrainme.com:maximuniverse/rebrain-devops-task-checkout.git
+	fetch = +refs/heads/*:refs/remotes/all/*
+	pushurl = git@gitlab.rebrainme.com:maximuniverse/rebrain-devops-task-checkout.git
+	pushurl = git@github.com:MaximPod/rebrain-devops-task-checkout.git
+	pushurl = git@bitbucket.org:MaximPod/rebrain-devops-task-checkout.git
+    ```
+Теперь git push пушит сразу во все три репы :)
+
 
 5. Репозиторий https://gitlab.rebrainme.com/rebrainme-devops/git-checkout  
 склонирован
