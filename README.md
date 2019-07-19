@@ -1,7 +1,7 @@
 ● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ●  
 # ░░░░░░░rebrain-devops-task1 ver 1.00  ░░░░░░░ 
-# ░░░░░░░ Учебный курс: Rebrain DevOps ░░░░░░░░
-# ░░░░░░░░░░ Задания: task1, task 2 ░░░░░░░░░░░
+# ░░░░░ Учебный курс: Rebrain DevOps ░░░░░░░
+# ░░░░░░░░░ Задания: task1, task 2 ░░░░░░░░░░
 ## ░░░░░░░░░░░░░░░░░░░░░░ © Dr'MaxPod 03.06.2019 
 ● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ●  
 
@@ -89,4 +89,25 @@
 
 2. Репозитории rebrain-devops-task-checkout созданы через web-интерфейс
 
-3.
+3. Удаленный репозитории подключены как:
+ - origin gitlab.rebrain.com
+ - bitbucked bitbucked.org
+ - github github.com
+
+4. Репозиторий запушен в удаленные ветки, в итоге получились ветки
+    ``` * master
+        remotes/bitbucket/master
+        remotes/github/master
+        remotes/origin/master
+   ```
+
+5. Репозиторий https://gitlab.rebrainme.com/rebrainme-devops/git-checkout  
+склонирован
+
+6. Обнаружено 7 коммитов, получен требуемый коммит командой
+git checkout HEAD~4, хэш проверен на соответствие e8b3ec06b  
+ 
+7. Содержимое получено
+969507679bbd60f2429968ce06036a5b
+
+8. Ответ отправляется.
