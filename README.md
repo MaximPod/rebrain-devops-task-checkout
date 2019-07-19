@@ -100,9 +100,10 @@
         remotes/github/master
         remotes/origin/master
     ```
-  Пушить в каждую репу отдельно не удобно. Добавлен алиас all.
-  Файл .git/config следующего содержания
-    ```
+  Пушить в каждую репу отдельно не удобно. Добавлен алиас all.   
+  Файл .git/config следующего содержания  
+
+```
 [core]
 	repositoryformatversion = 0
 	filemode = true
@@ -126,7 +127,11 @@
 	pushurl = git@gitlab.rebrainme.com:maximuniverse/rebrain-devops-task-checkout.git
 	pushurl = git@github.com:MaximPod/rebrain-devops-task-checkout.git
 	pushurl = git@bitbucket.org:MaximPod/rebrain-devops-task-checkout.git
-    ```
+
+
+```
+  	
+    
 Теперь git push пушит сразу во все три репы :)
 
 
