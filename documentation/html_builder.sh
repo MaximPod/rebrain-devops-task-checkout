@@ -37,20 +37,23 @@ done
 # в данном релизе скопируем документацию внутрь каталога .hugo
 # в последствии надо настрить прямое чтение из md_ru и вывод в  html_ru
 
-# копируем md_ru в content/posts
-rm -r ./.hugo/content/posts/*
-cp -R ./md_ru/*.* ./.hugo/content/posts/
+# копируем md_ru в content/posts все кроме *.rme
+rm -r ./hugo/content/posts/*
+cp -R ./md_ru/*.* ./hugo/content/posts/
+# удаляем rme которые могли скопироваться из md_ru
+rm -r ./hugo/content/posts/*.rme
+
 
 
 #Проверка файлов контента перед компиляцией
 #chck_hugo_content "./.hugo/content/posts/*"
 
 # собираем html
-cd ./.hugo/
+cd ./hugo/
 hugo
 cd ..
 
 # копируем собранный сайт из ./hugo/public в ./html.ru
-rm -r ./html_ru/*
-cp -R ./.hugo/public/* ./html_ru/
+#rm -r ./html_ru/*
+cp -R ./hugo/public/* ./html_ru/
 
