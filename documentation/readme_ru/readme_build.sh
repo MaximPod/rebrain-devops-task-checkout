@@ -29,7 +29,7 @@ readme_file="../../README.md"
 # Шапочка
 cat header_readme_ru.md > $readme_file
 # Собираем Содержание Проекта
-echo "##Содержание проекта" > project_contents.md
+echo "## Содержание проекта  " > project_contents.md
 echo "|Директория | Содержание|" >> project_contents.md
 echo "|:----------|:----------|" >> project_contents.md
 collect_rme_file "../../*"
