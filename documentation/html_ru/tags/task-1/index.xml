@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Task 1 on REBRAIN. Курс DevOps. BASIC. Документация</title>
+    <link>./tags/task-1.html</link>
+    <description>Recent content in Task 1 on REBRAIN. Курс DevOps. BASIC. Документация</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/task-1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Условие задачи Git 1</title>
+      <link>./posts/git-1.-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC%D0%B8/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-1.-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC%D0%B8/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description>Задание GIT 1:  Установить консольный git клиент Настроить git client - указать параметры user.name и user.email, соответствующие вашим данным Создать репозиторий rebrain-devops-task1 с помощью git init Создать файл nginx.conf, который содержит конфигурацию nginx (базовую, которая появляется после установки пакета в linux /etc/nginx/nginx.conf). Создать файл README.md, в котором описать что находится в репозитории (Пример: В данном репозитории находится дефолтный конфигурационный файл nginx). Добавить файл README.md в репозиторий с помощью git commit.</description>
+    </item>
+    
+    <item>
+      <title>Выполнение задачи Git 1</title>
+      <link>./posts/git-1.-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC%D0%B8/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-1.-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC%D0%B8/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description>Протокол решения  git version
+Установлен git version 2.20.1
+ git config &amp;ndash;list
+user.email=maxim@universe.su user.name=Maxim Podgornykh core.editor=nano  git init
+На ветке master Еще нет коммитов  cp /etc/nginx/nginx.conf myvenv/rebrain-devops-task1/
+скопирован nginx.conf  touch README.md
+README.md создан
+ git add README.md &amp;amp;&amp;amp; git commit
+первый коммит создан
+ git add nginx.conf &amp;amp;&amp;amp; git commit
+второй коммит создан
+ git shortlog &amp;gt;
+Maxim Podgornykh (2): новый файл: README.md Add new file nginx.</description>
+    </item>
+    
+  </channel>
+</rss>

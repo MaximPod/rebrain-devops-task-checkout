@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bash on REBRAIN. Курс DevOps. BASIC. Документация</title>
+    <link>./categories/bash.html</link>
+    <description>Recent content in Bash on REBRAIN. Курс DevOps. BASIC. Документация</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./categories/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Условие задачи Git 1</title>
+      <link>./posts/git-1.-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC%D0%B8/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-1.-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC%D0%B8/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description>Задание GIT 1:  Установить консольный git клиент Настроить git client - указать параметры user.name и user.email, соответствующие вашим данным Создать репозиторий rebrain-devops-task1 с помощью git init Создать файл nginx.conf, который содержит конфигурацию nginx (базовую, которая появляется после установки пакета в linux /etc/nginx/nginx.conf). Создать файл README.md, в котором описать что находится в репозитории (Пример: В данном репозитории находится дефолтный конфигурационный файл nginx). Добавить файл README.md в репозиторий с помощью git commit.</description>
+    </item>
+    
+    <item>
+      <title>Условие задачи Git 2</title>
+      <link>./posts/git-2.-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%D0%BC%D0%B8-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B2/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-2.-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%D0%BC%D0%B8-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B2/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description>Задание GIT 2:  Зарегистрироваться в двух публичных хостингах git репозиториев bitbucket и github. Доступ к gitlab.rebrainme.com вы должны были получить в начале курса, если у вас проблемы с доступом свяжитесь с кураторами по email или telegram. Создать на каждом из хостингов репозиторий rebrain-devops-task-checkout, bitbucket и github - публичные репозитории, gitlab.rebrainme.com - приватный. В репозиторий, созданный в первом задании добавить 3 удаленных сервера с помощью git remote add Запушить ваш репозиторий во все хостинги репозиториев с помощью git push Склонировать репозиторий https://gitlab.</description>
+    </item>
+    
+    <item>
+      <title>Условие задачи Git 3</title>
+      <link>./posts/git-3.-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D0%B3%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-3.-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D0%B3%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description> Задание GIT 3:  В вашем репозитории rebrain-devops-task1, загруженном на хостинг во втором задании добавить легковесный тег v0.1 на второй коммит (где добавили nginx.conf) Загрузить теги на хостинг gitlab.rebrainme.com с помощью git push. В дальнейшем, в заданиях, следует использовать только этот хостинг. Прислать ссылку на репозиторий в ответе  </description>
+    </item>
+    
+    <item>
+      <title>Условие задачи Git 4</title>
+      <link>./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description> Задание GIT 4:  Измените README.md в соответствии с шаблоном, в своем репозитории rebrain-devops-task1, который был загруженном на хостинг во втором задании Запушьте изменения на gitlab Пришлите ссылку на свой gitlab репозиторий с обновленным readme.md в ответы  </description>
+    </item>
+    
+    <item>
+      <title>Выполнение задачи Git 1</title>
+      <link>./posts/git-1.-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC%D0%B8/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-1.-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC%D0%B8/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description>Протокол решения  git version
+Установлен git version 2.20.1
+ git config &amp;ndash;list
+user.email=maxim@universe.su user.name=Maxim Podgornykh core.editor=nano  git init
+На ветке master Еще нет коммитов  cp /etc/nginx/nginx.conf myvenv/rebrain-devops-task1/
+скопирован nginx.conf  touch README.md
+README.md создан
+ git add README.md &amp;amp;&amp;amp; git commit
+первый коммит создан
+ git add nginx.conf &amp;amp;&amp;amp; git commit
+второй коммит создан
+ git shortlog &amp;gt;
+Maxim Podgornykh (2): новый файл: README.md Add new file nginx.</description>
+    </item>
+    
+    <item>
+      <title>Выполнение задачи Git 2</title>
+      <link>./posts/git-2.-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%D0%BC%D0%B8-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B2/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-2.-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%D0%BC%D0%B8-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B2/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description>Протокол решения  Регистрация выполнена ренее
+ Репозитории rebrain-devops-task-checkout созданы через web-интерфейс
+ Удаленный репозитории подключены как:
+ origin gitlab.rebrain.com bitbucked bitbucked.org github github.com  Репозиторий запушен в удаленные ветки, в итоге получились ветки
+* master remotes/bitbucket/master remotes/github/master remotes/origin/master  Пушить в каждую репу отдельно не удобно. Добавлен алиас all.
+Файл .git/config следующего содержания
+[core] repositoryformatversion = 0 filemode = true bare = false logallrefupdates = true [remote &amp;quot;origin&amp;quot;] url = git@gitlab.</description>
+    </item>
+    
+    <item>
+      <title>Выполнение задачи Git 3</title>
+      <link>./posts/git-3.-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D0%B3%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-3.-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D0%B3%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description> Выполнение задачи Git 3  Коммит 4ae77da3 помечен тегом v0.1 изменения запушены в удаленный репозиторий ссылка на удаленный репозиторий https://gitlab.rebrainme.com/maximuniverse/rebrain-devops-task-checkout  </description>
+    </item>
+    
+  </channel>
+</rss>

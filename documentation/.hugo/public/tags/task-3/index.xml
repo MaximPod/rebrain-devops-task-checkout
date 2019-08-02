@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Task 3 on REBRAIN. Курс DevOps. BASIC. Документация</title>
+    <link>./tags/task-3.html</link>
+    <description>Recent content in Task 3 on REBRAIN. Курс DevOps. BASIC. Документация</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/task-3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Условие задачи Git 3</title>
+      <link>./posts/git-3.-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D0%B3%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-3.-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D0%B3%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description> Задание GIT 3:  В вашем репозитории rebrain-devops-task1, загруженном на хостинг во втором задании добавить легковесный тег v0.1 на второй коммит (где добавили nginx.conf) Загрузить теги на хостинг gitlab.rebrainme.com с помощью git push. В дальнейшем, в заданиях, следует использовать только этот хостинг. Прислать ссылку на репозиторий в ответе  </description>
+    </item>
+    
+    <item>
+      <title>Выполнение задачи Git 3</title>
+      <link>./posts/git-3.-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D0%B3%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-3.-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D0%B3%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description> Выполнение задачи Git 3  Коммит 4ae77da3 помечен тегом v0.1 изменения запушены в удаленный репозиторий ссылка на удаленный репозиторий https://gitlab.rebrainme.com/maximuniverse/rebrain-devops-task-checkout  </description>
+    </item>
+    
+  </channel>
+</rss>

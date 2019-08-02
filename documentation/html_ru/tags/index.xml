@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on REBRAIN. Курс DevOps. BASIC. Документация</title>
+    <link>./tags.html</link>
+    <description>Recent content in Tags on REBRAIN. Курс DevOps. BASIC. Документация</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basic</title>
+      <link>./tags/basic.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./tags/basic.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>./tags/git.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./tags/git.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task 1</title>
+      <link>./tags/task-1.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./tags/task-1.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task 2</title>
+      <link>./tags/task-2.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./tags/task-2.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task 3</title>
+      <link>./tags/task-3.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./tags/task-3.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task 4</title>
+      <link>./tags/task-4.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./tags/task-4.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

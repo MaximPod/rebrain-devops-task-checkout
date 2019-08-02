@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1. Трудности документирования, с которыми я столкнулся on REBRAIN. Курс DevOps. BASIC. Документация</title>
+    <link>./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/1.-%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%BC%D0%B8-%D1%8F-%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D1%83%D0%BB%D1%81%D1%8F.html</link>
+    <description>Recent content in 1. Трудности документирования, с которыми я столкнулся on REBRAIN. Курс DevOps. BASIC. Документация</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/1.-%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%BC%D0%B8-%D1%8F-%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D1%83%D0%BB%D1%81%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1.1 Разбор шаблона https://gist.github.com/PurpleBooth/109311bb0361f32d87a2</title>
+      <link>./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/1.-%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%BC%D0%B8-%D1%8F-%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D1%83%D0%BB%D1%81%D1%8F/1.1-%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D1%80-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/1.-%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%BC%D0%B8-%D1%8F-%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D1%83%D0%BB%D1%81%D1%8F/1.1-%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D1%80-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0.html</guid>
+      <description>Выполнение задачи Git 4 1.1 Разбор рекомендованного шаблона https://gist.github.com/PurpleBooth/109311bb0361f32d87a2 Давайте сначала взглянем на рекомендуемый шаблон. Что мы видим? Правильно, Хаос.
+Чем такой шаблон мне не нравится?
+1. Он не универсален.
+Для небольшого проекта &amp;ldquo;программной поделки&amp;rdquo; с открытым исходным кодом он наверное не плох, но он не подходит к любой другой теме: ответы на задание, проведение исследования, дизайнерский проект и т.д.
+2. Не подходит для большого проекта.
+Если применить его к большому сложному проекту - то он превратится в тяжеловесный лонгрид.</description>
+    </item>
+    
+    <item>
+      <title>1.2 МРАКдаун с маркдаун</title>
+      <link>./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/1.-%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%BC%D0%B8-%D1%8F-%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D1%83%D0%BB%D1%81%D1%8F/1.2-%D0%BC%D1%80%D0%B0%D0%BA%D0%B4%D0%B0%D1%83%D0%BD-%D1%81-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/1.-%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%BC%D0%B8-%D1%8F-%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D1%83%D0%BB%D1%81%D1%8F/1.2-%D0%BC%D1%80%D0%B0%D0%BA%D0%B4%D0%B0%D1%83%D0%BD-%D1%81-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD.html</guid>
+      <description>Выполнение задачи Git 4 1.2 МРАКдаун с маркдаун Решив поискать шаблон получше и прочитав кучу статей, я решил поэкспериментировать с собственным творением (см README к этому проекту в предыдущих коммитах) и столкнулся с новым страшным зверем по прозвищу МаркДаун
+ Отстутствие стандарта на этот формат приводит к тому, что в каждой системе документ с такой разметкой отображается по своему. И я могу только догадыватся, что увидит гость проекта
+ Как только мы делаем шаг в сторону таблиц, внутренних ссылок на блоки текста, сноски - мы погружаемся в хаос.</description>
+    </item>
+    
+    <item>
+      <title>1.3 Web тоже не идеал</title>
+      <link>./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/1.-%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%BC%D0%B8-%D1%8F-%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D1%83%D0%BB%D1%81%D1%8F/1.3-web-%D0%BD%D0%B5-%D0%B8%D0%B4%D0%B5%D0%B0%D0%BB.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/1.-%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%BC%D0%B8-%D1%8F-%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D1%83%D0%BB%D1%81%D1%8F/1.3-web-%D0%BD%D0%B5-%D0%B8%D0%B4%D0%B5%D0%B0%D0%BB.html</guid>
+      <description>Выполнение задачи Git 4 1.3 Web vs MD Есть прекрасный стандартизированный язык разметки, принятный во всем интернете - html. На сегодняшний день он позволяет делать гипертекст с однозначным его прочтением и отображением. Так почему же мы не пишем документацию на Web-сайте?
+Проведя исследование, я выяснил, что и здесь есть свои существенные минусы:
+1. Документация на сайте отделена от проекта и может быть не доступна пользователю по разным причинам: нет сети, упал сайт и т.</description>
+    </item>
+    
+    <item>
+      <title>1.4 Неутешительные итоги</title>
+      <link>./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/1.-%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%BC%D0%B8-%D1%8F-%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D1%83%D0%BB%D1%81%D1%8F/1.4-%D0%BD%D0%B5%D1%83%D1%82%D0%B5%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%B8%D1%82%D0%BE%D0%B3%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-4.-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2-readme.md/1.-%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%BC%D0%B8-%D1%8F-%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D1%83%D0%BB%D1%81%D1%8F/1.4-%D0%BD%D0%B5%D1%83%D1%82%D0%B5%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%B8%D1%82%D0%BE%D0%B3%D0%B8.html</guid>
+      <description>Выполнение задачи Git 4 1.4 Неутешительные итоги  Писать все в один файл типа README не удобно, т.к. он получается длинным и непонятным по структуре.
+ Описывать сложные структуры с использованием маркдауна невозможно из за ограничений функциональности маркдауна и отсутствия единого стандарта на маркдаун.
+ Реализация документации в виде сайта ресурсозатратна и ограничивает доступ к человекочитаемым файлам документации в терминале.  В итоге документирование лавирует между этих трех направлений,в зависимости от предпочтений разработчика, что мне кажется совершенно не системным.</description>
+    </item>
+    
+  </channel>
+</rss>

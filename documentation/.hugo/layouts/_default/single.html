@@ -1,0 +1,8 @@
+{{- define "main" -}}
+<h1>{{ .Title }}</h1>
+<h2>Single Permalink is {{ .Permalink }}</h2>
+<h2>Single RelPermalink is {{ .RelPermalink }}</h2>
+{{- .Content -}}
+{{- partial "edit-meta.html" . -}}
+{{- partial "pagination.html" . -}}
+{{- end -}}

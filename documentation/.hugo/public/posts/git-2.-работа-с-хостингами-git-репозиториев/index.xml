@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIT: 2. Работа с хостингами Git репозиториев on REBRAIN. Курс DevOps. BASIC. Документация</title>
+    <link>./posts/git-2.-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%D0%BC%D0%B8-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B2.html</link>
+    <description>Recent content in GIT: 2. Работа с хостингами Git репозиториев on REBRAIN. Курс DevOps. BASIC. Документация</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./posts/git-2.-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%D0%BC%D0%B8-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Условие задачи Git 2</title>
+      <link>./posts/git-2.-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%D0%BC%D0%B8-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B2/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-2.-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%D0%BC%D0%B8-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B2/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description>Задание GIT 2:  Зарегистрироваться в двух публичных хостингах git репозиториев bitbucket и github. Доступ к gitlab.rebrainme.com вы должны были получить в начале курса, если у вас проблемы с доступом свяжитесь с кураторами по email или telegram. Создать на каждом из хостингов репозиторий rebrain-devops-task-checkout, bitbucket и github - публичные репозитории, gitlab.rebrainme.com - приватный. В репозиторий, созданный в первом задании добавить 3 удаленных сервера с помощью git remote add Запушить ваш репозиторий во все хостинги репозиториев с помощью git push Склонировать репозиторий https://gitlab.</description>
+    </item>
+    
+    <item>
+      <title>Выполнение задачи Git 2</title>
+      <link>./posts/git-2.-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%D0%BC%D0%B8-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B2/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/git-2.-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%D0%BC%D0%B8-git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B2/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.html</guid>
+      <description>Протокол решения  Регистрация выполнена ренее
+ Репозитории rebrain-devops-task-checkout созданы через web-интерфейс
+ Удаленный репозитории подключены как:
+ origin gitlab.rebrain.com bitbucked bitbucked.org github github.com  Репозиторий запушен в удаленные ветки, в итоге получились ветки
+* master remotes/bitbucket/master remotes/github/master remotes/origin/master  Пушить в каждую репу отдельно не удобно. Добавлен алиас all.
+Файл .git/config следующего содержания
+[core] repositoryformatversion = 0 filemode = true bare = false logallrefupdates = true [remote &amp;quot;origin&amp;quot;] url = git@gitlab.</description>
+    </item>
+    
+  </channel>
+</rss>

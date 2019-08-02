@@ -1,0 +1,18 @@
+
+baseurl = "./"  
+languageCode = "ru-ru"
+title = "REBRAIN. Курс DevOps. BASIC. Документация"
+theme = "hugo-theme-techdoc"
+#themesDir = "./themes"
+#theme = "m10c"
+#paginate = 5
+uglyURLs=true
+relativeURLs=true
+
+[params]
+  author = "Максим Подгорных"
+  description = """Документация по выполнению заданий курса GIT"""
+  name = "Максим Подгорных"
+  email = "maxim@universe.su"
+
+ 
