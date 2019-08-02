@@ -18,7 +18,7 @@
 Документация на русском языке расположена в папке [documents](./documents) и доступна в трех форматах:  
  * текстовом [./documentation/md_ru/](./documentation/md_ru/)   
  * гипертекстовом [./documentation/html_ru/index.html](./documentation/html_ru/index.html)   
- * web-сайте [https://MaxPod/gitlab.io/task1/](https://MaxPod/gitlab.io/task1/)  
+ * web-сайте [https://maxpod.gitlab.io/rebrain-devops-task-checkout](https://maxpod.gitlab.io/rebrain-devops-task-checkout)  
 
 
 
