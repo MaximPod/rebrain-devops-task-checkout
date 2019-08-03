@@ -1,0 +1,9 @@
+pages:
+  stage: deploy
+  script:
+   - cp -r documentation/html_ru/* public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
